@@ -6,7 +6,7 @@ let gruntWebPack = require('./tools/modules/grunt-webpack');
 let swag = require('@ephox/swag');
 
 let plugins = [
-  'advlist', 'anchor', 'autolink', 'autoresize', 'autosave', 'bbcode', 'charmap', 'code', 'codesample',
+  'advlist', 'anchor', 'ari24image', 'autolink', 'autoresize', 'autosave', 'bbcode', 'charmap', 'code', 'codesample',
   'colorpicker', 'contextmenu', 'directionality', 'emoticons', 'help', 'fullpage',
   'fullscreen', 'hr', 'image', 'imagetools', 'importcss', 'insertdatetime', 'legacyoutput', 'link',
   'lists', 'media', 'nonbreaking', 'noneditable', 'pagebreak', 'paste', 'preview', 'print', 'save',

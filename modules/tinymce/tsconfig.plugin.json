@@ -6,6 +6,7 @@
       "tinymce/core/*": ["lib/globals/tinymce/core/*"],
       "tinymce/plugins/advlist/*": ["src/plugins/advlist/main/ts/*"],
       "tinymce/plugins/anchor/*": ["src/plugins/anchor/main/ts/*"],
+      "tinymce/plugins/ari24image/*": ["src/plugins/ari24image/main/ts/*"],
       "tinymce/plugins/autolink/*": ["src/plugins/autolink/main/ts/*"],
       "tinymce/plugins/autoresize/*": ["src/plugins/autoresize/main/ts/*"],
       "tinymce/plugins/autosave/*": ["src/plugins/autosave/main/ts/*"],
